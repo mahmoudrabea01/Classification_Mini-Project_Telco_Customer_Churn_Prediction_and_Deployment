@@ -236,6 +236,23 @@ An interactive Streamlit web application was developed to allow users to predict
 4. Logistic Regression generates a prediction.
 5. Streamlit displays the prediction result.
 
+## Project Demonstration
+
+The following video demonstrates the end-to-end Machine Learning workflow, including data preprocessing, model training, hyperparameter optimization, model serialization, and Streamlit deployment.
+
+### Video Demonstration
+
+[Watch the Telco Customer Churn Prediction Demo](assets/telco_churn_demo.mp4)
+
+### Demonstrated Features
+
+- Data exploration and preprocessing.
+- Training and comparison of seven classification models.
+- Logistic Regression optimization using GridSearchCV.
+- Model evaluation and selection.
+- Saving and loading the trained pipeline using Joblib.
+- Interactive customer information form using Streamlit.
+
 ## Project Structure
 
 ```text
